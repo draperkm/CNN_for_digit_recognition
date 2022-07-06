@@ -7,4 +7,4 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ## Summary of Sequential model
 
-![alt text](https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png =250x250)
+![alt text](https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png)
