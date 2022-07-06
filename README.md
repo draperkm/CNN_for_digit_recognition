@@ -9,3 +9,12 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 
 <img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png" width="400" height="500">
+
+## Dependencies
+
+Pandas
+Numpy
+Matplotlib
+Sklearn
+Keras
+Tensorflow
