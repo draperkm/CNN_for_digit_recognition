@@ -12,9 +12,14 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ## Dependencies
 
-Pandas
+Pandas 
+
 Numpy
+
 Matplotlib
+
 Sklearn
+
 Keras
+
 Tensorflow
