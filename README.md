@@ -36,4 +36,4 @@ Convolutional Neural networks is a branch in Deep-learning that is found to be v
 3. Pooling
 4. Flatten
 
-<img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.52.57.png" width="500" height="400">
+<img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.52.57.png" width="700" height="300">
