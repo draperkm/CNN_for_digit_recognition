@@ -10,20 +10,12 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ## Architecture
 
-<img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png" width="400" height="500">
-
-## What happens in CNNs?
-
-The diagram below shows the processes that an image undergoes before it is fed to a neural network
-
-Convolutional Neural networks is a branch in Deep-learning that is found to be very effective in the field of media processing such as image recognition and audio/video recognition. The dimentionality of the image is reduced before it is fed to a full-connected neural networks, in such a way that all the important features in an image is retained. The important processes in a Convolutional Neural Network in image processing are as follows
-
-1. Convolution
-2. Padding
-3. Pooling
-4. Flatten
+The netwrok is composed by 4 convolutional layers. The first two convolutional layers are composed by 28 nodes each, while the last two by 14 nodes each. In between these layer we make use of the maxpooling and dropout operations. After this layers group, the output gets flattened out, and three fully connected layers for the final classification network. The final fully connected layer is made of 10 nodes, each one corresponding to a digit from 0 to 9. Below we can see two representations of the same network. 
 
 <img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.52.57.png" width="600" height="250">
+
+<img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png" width="400" height="500">
+
 
 ## Imported libraries (Keras implementation)
 
