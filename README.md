@@ -1,4 +1,4 @@
-# Digit recognizer
+# CNN for digit recognition
 
 The model has been trained on MNIST dataset reaching 99.328% accuracy.
 
