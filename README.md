@@ -14,8 +14,7 @@ The MNIST database (Modified National Institute of Standards and Technology data
 The netwrok is composed by 4 convolutional layers. The first two convolutional layers are composed by 28 nodes each, while the last two by 14 nodes each. In between these layer we make use of the maxpooling and dropout operations. After this layers group, the output gets flattened out, and three fully connected layers for the final classification network. The final fully connected layer is made of 10 nodes, each one corresponding to a digit from 0 to 9. Below we can see two representations of the same network. 
 
 <p align="center">
-  <img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.52.57.png" width="600" height="250">
-  <img src="https://github.com/draperkm/Digit-Recognizer/blob/main/Screenshot%202022-07-06%20at%2020.08.48.png" width="400" height="500">
+  <img width="1051" alt="Screenshot 2022-09-22 at 09 57 27" src="https://user-images.githubusercontent.com/80494835/191704673-e23f0d1c-b6e1-440c-a739-044acc3240c7.png">
 </p>
 
 ## Imported libraries (Keras implementation)
