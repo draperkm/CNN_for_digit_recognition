@@ -6,7 +6,7 @@ This is a Classification problem. The netwrok will try to predict the true label
 The MNIST database (Modified National Institute of Standards and Technology database) of handwritten digits consists of a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. Additionally, the black and white images from NIST were size-normalized and centered to fit into a 28x28 pixel bounding box and anti-aliased, which introduced grayscale levels.
 
 <p align="center">
-  <img width="560" height="400" src="docs/MNIST.jpg">
+  <img width="660" height="500" src="docs/MNIST.jpg">
 </p>
 
 ## Architecture
@@ -24,15 +24,15 @@ The netwrok is composed by 4 convolutional layers. The first two convolutional l
 
 ### Accuracy using Machine Learning Algorithms:
 
-i) K Nearest Neighbors: 96.67%
+- K Nearest Neighbors: 96.67%
 
-ii) SVM: 97.91%
+- SVM: 97.91%
 
-iii) Random Forest Classifier: 96.82%
+- Random Forest Classifier: 96.82%
 
 ### Accuracy using Deep Neural Networks:
 
-i) Three Layer Convolutional Neural Network using Tensorflow: 99.70%
+- Three Layer Convolutional Neural Network using Tensorflow: 99.33%
 
-ii) Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
+- Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
