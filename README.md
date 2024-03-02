@@ -7,9 +7,9 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ![MNIST Diagram](docs/MNIST.jpg)
 
-<center>
-    <img src="docs/MNIST.jpg">
-</center>
+<p align="center">
+  <img width="460" height="300" src="docs/MNIST.jpg">
+</p>
 
 ## Architecture
 
