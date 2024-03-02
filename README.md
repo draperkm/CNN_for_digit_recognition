@@ -17,17 +17,24 @@ The netwrok is composed by 4 convolutional layers. The first two convolutional l
   <img width="1051" alt="Screenshot 2022-09-22 at 09 57 27" src="https://user-images.githubusercontent.com/80494835/191704673-e23f0d1c-b6e1-440c-a739-044acc3240c7.png">
 </p>
 
-## Imported libraries (Keras implementation)
+## Requirements
 
-Pandas 
+- Python 3.5+
+- Scikit-Learn (latest version)
+- Numpy (+ mkl for Windows)
+- Matplotlib
 
-Numpy
+### Accuracy using Machine Learning Algorithms:
 
-Matplotlib
+i) K Nearest Neighbors: 96.67%
 
-Sklearn
+ii) SVM: 97.91%
 
-Keras
+iii) Random Forest Classifier: 96.82%
 
-Tensorflow
+### Accuracy using Deep Neural Networks:
+
+i) Three Layer Convolutional Neural Network using Tensorflow: 99.70%
+
+ii) Three Layer Convolutional Neural Network using Keras and Theano: 98.75%
 
