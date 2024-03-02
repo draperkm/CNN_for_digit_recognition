@@ -7,6 +7,10 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 ![MNIST Diagram](docs/MNIST.jpg)
 
+<center>
+    <img src="docs/MNIST.jpg">
+</center>
+
 ## Architecture
 
 The netwrok is composed by 4 convolutional layers. The first two convolutional layers are composed by 28 nodes each, while the last two by 14 nodes each. In between these layer we make use of the maxpooling and dropout operations. After this layers group, the output gets flattened out, and three fully connected layers for the final classification network. The final fully connected layer is made of 10 nodes, each one corresponding to a digit from 0 to 9. Below we can see two representations of the same network. 
